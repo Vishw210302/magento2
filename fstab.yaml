@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/{org}/{site}/
+    url: https://da.live/#/vishw210302/magento2
     type: markup
 
 folders:
